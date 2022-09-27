@@ -18,8 +18,3 @@ Traditional server rendered e-commerce store built on Spring Framework for learn
 * Responsive design.
 
 
-### Aditional info
-The data was taken from MercadoLibre.com public API using a simple python script. 
-I uploaded both the script (might not be reusable in the future without modifications) 
-and the sql dump in case someone needs to import a working database. 
-All the images were originally links to cloud resources but I decided later to serve them as static assets for simplicity.
